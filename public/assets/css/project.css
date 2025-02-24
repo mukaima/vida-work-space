@@ -1,0 +1,71 @@
+.bg-img1{
+    background-image: url(../images/Logos/youtube.png);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 100%;
+}
+.p1 .col-lg-6{
+    width:50%;
+}
+.p1 .col-lg-6 img{
+    width: 100%;
+}
+.p1 img{
+    transition: all 1.1s;
+}
+.image:hover img{
+    transform: scale(1.1);
+}
+.courses-1{
+    margin-top: 170px;
+}
+.footer-1 p{
+    font-size: medium;
+    padding: 5px;
+}
+.rooms{
+    margin-top: 200px;
+}
+.reservaition1{
+    height: 50%;
+}
+.reservaition1 img{
+    height: 100%;
+}
+.reservaition2{
+    height: 50%;
+}
+.reservaition2 img{
+    height: 100%;
+}
+.reservaition3{
+    height: 50%;
+}
+.reservaition3 img{
+    height: 100%;
+}
+.reservaition4{
+    height: 50%;
+}
+.reservaition4 img{
+    height: 100%;
+}
+.sec{
+    height: 25%;
+    top: 30%;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.final-page{
+    margin-top: 200px;
+}
+footer{
+    /* margin-top: 200PX; */
+    width: 100%;
+	color: #969696;;
+	background-color: rgba(6, 71, 66, 0.411);
+}
